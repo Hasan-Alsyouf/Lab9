@@ -1,0 +1,15 @@
+/* src/components/Posts.css */
+.posts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.post {
+  width: 30%; /* Adjust the width as needed */
+  border: 1px solid #d50808;
+  padding: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  background-color: rgb(197, 215, 235);
+}

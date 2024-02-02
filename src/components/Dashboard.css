@@ -1,0 +1,11 @@
+/* src/components/Dashboard.css */
+.dashboard {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgb(244, 244, 239)
+  }
+  
+  .update-section {
+    margin-bottom: 20px;
+  }
+  

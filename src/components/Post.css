@@ -1,0 +1,22 @@
+/* src/components/Post.css */
+.post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  /* src/components/Posts.css */
+  .posts {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* src/components/PostDetails.css */
+  .post-details {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(216, 236, 236);
+  }
+  
